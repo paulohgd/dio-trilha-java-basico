@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ContaBancaria/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ContaBancaria/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesafioContador/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DesafioContador/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TratamentoDeExcecoes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TratamentoDeExcecoes/src/main/resources" charset="UTF-8" />
   </component>
 </project>
